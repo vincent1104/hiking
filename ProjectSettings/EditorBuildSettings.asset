@@ -1,0 +1,30 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 0
+    path: Assets/Scenes/SampleScene.unity
+    guid: 8c9cfa26abfee488c85f1582747f6a02
+  - enabled: 1
+    path: Assets/Scenes/StartScene.unity
+    guid: a936491e18ed65a44956d3dadda8cc76
+  - enabled: 1
+    path: Assets/Scenes/MainScene.unity
+    guid: c6fad8b3885542043876074c99403364
+  - enabled: 1
+    path: Assets/Scenes/map.unity
+    guid: 95ccf2e4657c69449bf4aec4f63ea4d7
+  - enabled: 1
+    path: Assets/Scenes/weather.unity
+    guid: a986d778405c28e4fbc58f633dc0cd81
+  - enabled: 1
+    path: Assets/Scenes/other.unity
+    guid: d83da1c0d26e73a4ca3e8107538cdd48
+  m_configObjects:
+    com.unity.adaptiveperformance.loader_settings: {fileID: 11400000, guid: f083c5adbb46b574986c2d07931083ff, type: 2}
+    com.unity.adaptiveperformance.simulator.provider_settings: {fileID: 11400000, guid: 11e8356f83f4ac64a89fa104f08ebfcb, type: 2}
+    com.unity.input.settings.actions: {fileID: -944628639613478452, guid: 2bcd2660ca9b64942af0de543d8d7100, type: 3}
+  m_UseUCBPForAssetBundles: 0
